@@ -1,0 +1,6 @@
+com\ecommerce\util\ProductStore.class
+com\ecommerce\model\Product.class
+com\ecommerce\servlet\CartServlet.class
+com\ecommerce\servlet\CheckoutServlet.class
+com\ecommerce\model\CartItem.class
+com\ecommerce\servlet\HomeServlet.class
